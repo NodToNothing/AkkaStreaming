@@ -1,0 +1,10 @@
+c:\users\u0024159\documents\visual studio 2013\Projects\AkkaStreaming\AkkaStreaming\bin\Debug\AkkaStreaming.exe.config
+c:\users\u0024159\documents\visual studio 2013\Projects\AkkaStreaming\AkkaStreaming\bin\Debug\AkkaStreaming.exe
+c:\users\u0024159\documents\visual studio 2013\Projects\AkkaStreaming\AkkaStreaming\bin\Debug\AkkaStreaming.pdb
+c:\users\u0024159\documents\visual studio 2013\Projects\AkkaStreaming\AkkaStreaming\bin\Debug\Akka.dll
+c:\users\u0024159\documents\visual studio 2013\Projects\AkkaStreaming\AkkaStreaming\bin\Debug\Newtonsoft.Json.dll
+c:\users\u0024159\documents\visual studio 2013\Projects\AkkaStreaming\AkkaStreaming\bin\Debug\Akka.xml
+c:\users\u0024159\documents\visual studio 2013\Projects\AkkaStreaming\AkkaStreaming\bin\Debug\Newtonsoft.Json.xml
+c:\users\u0024159\documents\visual studio 2013\Projects\AkkaStreaming\AkkaStreaming\obj\Debug\AkkaStreaming.exe
+c:\users\u0024159\documents\visual studio 2013\Projects\AkkaStreaming\AkkaStreaming\obj\Debug\AkkaStreaming.pdb
+C:\Users\U0024159\documents\visual studio 2013\Projects\AkkaStreaming\AkkaStreaming\obj\Debug\AkkaStreaming.csprojResolveAssemblyReference.cache
